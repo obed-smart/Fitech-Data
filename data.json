@@ -1,0 +1,176 @@
+{
+    "user": [
+      {
+        "id": 1,
+        "name": "Team Fitech",
+        "profession": "Community",
+        "image": [
+          "/fitech-logo.png",
+          "/IMG_20240906_180738_377.jpg",
+          "/IMG_20240906_180739_681.jpg",
+          "/IMG_20240906_180740_584.jpg",
+          "/IMG_20240906_180822_868.jpg",
+          "/IMG_20240906_181840_700.jpg",
+          "/IMG_20240906_182119_537.jpg",
+          "/IMG-20240831-WA0011.jpg",
+          "/IMG-20240831-WA0014.jpg",
+          "/IMG-20240831-WA0016.jpg",
+          "/IMG-20240831-WA0020.jpg",
+          "/IMG-20240901-WA0005.jpg",
+          "/IMG-20240902-WA0025.jpg",
+          "/IMG-20240906-WA0004.jpg",
+          "/IMG-20240906-WA0006.jpg",
+          "/screenshort.jpg ",
+          "/screenshort1.jpg",
+          "/screenshot.jpg ",
+          "/screenshot2.jpg"
+        ],
+        "skill": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "TAILWINDCSS",
+          "SCSS",
+          " REACT JS",
+          "GIT"
+        ],
+        "bio": "Fitech is a dynamic tech community at the forefront of innovation, bridging the gap between Web3 technologies and traditional tech sectors. We bring together developers, enthusiasts, and professionals from all aspects of the tech world, including blockchain, AI, cybersecurity, and software engineering. Fitech fosters collaboration, knowledge sharing, and growth, creating an inclusive environment for anyone passionate about technology’s potential to shape the future. Whether it's decentralized applications or cutting-edge digital solutions, Fitech is where ideas thrive and the next generation of tech leaders come to connect.."
+      },
+      {
+        "id": 2,
+        "name": "Tali Nanzing ",
+        "profession": "Front End Dev",
+        "image": [
+          "/Screenshot_20241125-052854.png",
+          "/Screenshot_20241125-103755.png",
+          "/Screenshot_20241125-103840.png",
+          "/Screenshot_20241125-103923.png",
+          "/screenshort.jpg ",
+          "/screenshort1.jpg",
+          "/screenshot.jpg ",
+          "/screenshot2.jpg"
+        ],
+        "skill": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "TAILWINDCSS",
+          "SCSS",
+          " REACT JS",
+          "GIT"
+        ],
+        "bio": "I'm a dedicated developer passionate about mastering web technologies and constantly improving my skills in JavaScript and React.js. I'm hands-on with building projects like websites etc, using tools like Tailwind CSS, and Vite. I enjoy solving real-world technical challenges on Ubuntu and exploring Web3 concepts while documenting my learning journey. With a strong focus on practical experience, I aim to grow as a developer through structured roadmaps and continuous learning."
+      },
+      {
+        "id": 3,
+        "name": "Taibat Olayinka",
+        "profession": "Front End Dev",
+        "image": ["/taibat.jpeg"],
+        "skill": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "TAILWINDCSS",
+          "SCSS",
+          " REACT JS",
+          "GIT"
+        ],
+        "bio": "I'm a tech enthusiast passionate about front-end development, graphic design, and product management. I bring ideas to life from concept to execution through visual storytelling. I'm passionate about web development and always looking for new challenges. I focus on creating responsive, accessible designs with fast performance and modern interactivity, turning ambitious ideas into reality"
+      },
+      {
+        "id": 4,
+        "name": "Aisha Kabir Shittu",
+        "profession": "Front End Dev",
+        "image": ["/Aisha-Kabir-shittu.jpeg"],
+        "skill": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "TAILWINDCSS",
+          "SCSS",
+          " REACT JS",
+          "GIT"
+        ],
+        "bio": "A dedicated web developer currently focusing on front-end technologies like CSS, JavaScript, and React. I enjoy creating clean, responsive user interfaces and translating design ideas into functional websites. Passionate about continuous learning, I aim to expand my skills with frameworks like Next.js and contribute to collaborative coding projects that make a positive impact. "
+      },
+      {
+        "id": 5,
+        "name": "Sophia Martinez",
+        "profession": "Front End Dev",
+        "image": ["https://example.com/images/sophia.jpg"],
+        "bio": "A fitness enthusiast and yoga instructor.",
+        "skill": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "TAILWINDCSS",
+          "SCSS",
+          " REACT JS",
+          "GIT"
+        ]
+      }
+    ],
+    "menu": [
+      {
+        "category": "Product",
+        "items": [
+          { "name": "Product", "url": "/product" },
+          { "name": "Overview", "url": "/overview" },
+          { "name": "Features", "url": "/features" },
+          { "name": "Solutions", "url": "/solutions" },
+          { "name": "Tutorials", "url": "/tutorials" },
+          { "name": "Pricing", "url": "/pricing" },
+          { "name": "Release", "url": "/release" }
+        ]
+      },
+      {
+        "category": "Company",
+        "items": [
+          { "name": "Company", "url": "/company" },
+          { "name": "About us", "url": "/about-us" },
+          { "name": "Careers", "url": "/careers" },
+          { "name": "Press", "url": "/press" },
+          { "name": "News", "url": "/news" },
+          { "name": "Medis kit", "url": "/medis-kit" },
+          { "name": "Contact", "url": "/contact" }
+        ]
+      },
+      {
+        "category": "Resources",
+        "items": [
+          { "name": "Resources", "url": "/resources" },
+          { "name": "Blog", "url": "/blog" },
+          { "name": "Newsletter", "url": "/newsletter" },
+          { "name": "Event", "url": "/event" },
+          { "name": "Help center", "url": "/help-center" },
+          { "name": "Tutorials", "url": "/resources/tutorials" },
+          { "name": "Support", "url": "/support" }
+        ]
+      },
+      {
+        "category": "Social",
+        "items": [
+          { "name": "Social", "url": "/social" },
+          { "name": "Twitter", "url": "https://twitter.com" },
+          { "name": "LinkedIn", "url": "https://linkedin.com" },
+          { "name": "Facebook", "url": "https://facebook.com" },
+          { "name": "GitHub", "url": "https://github.com" },
+          { "name": "AngelList", "url": "https://angel.co" },
+          { "name": "Dribble", "url": "https://dribbble.com" }
+        ]
+      },
+      {
+        "category": "Legal",
+        "items": [
+          { "name": "Legal", "url": "/legal" },
+          { "name": "Terms", "url": "/terms" },
+          { "name": "Privacy", "url": "/privacy" },
+          { "name": "Cookies", "url": "/cookies" },
+          { "name": "Licenses", "url": "/licenses" },
+          { "name": "Settings", "url": "/settings" },
+          { "name": "Contact", "url": "/legal/contact" }
+        ]
+      }
+    ]
+  }
+  
