@@ -102,12 +102,12 @@
       "name": "David Shammah",
       "profession": "Front End Dev",
       "image": [
-        "/images/david4.jpg",
-        "/images/david1.jpg",
-        "/images/david3.jpg",
-        "/images/david5.jpg",
-        "/images/david2.jpg",
-        "/images/david6.jpg"
+        "/david4.jpg",
+        "/david1.jpg",
+        "/david3.jpg",
+        "/david5.jpg",
+        "/david2.jpg",
+        "/david6.jpg"
       ],
       "bio": "A multi-talented professional with a strong background in design, marketing, and sales, currently specializing in front-end development. I have a knack for crafting compelling visuals and seamless user experiences, I combine creativity and technical expertise to deliver solutions that drive engagement and results.<br/> In the realm of design, I excel in creating visually striking and functional layouts tailored to clients' unique needs. My marketing and sales acumen enhance my ability to position brands strategically, craft impactful campaigns, and foster meaningful customer relationships. <br/> As a front-end developer, I have a basic knowledge in creating responsive, interactive web interfaces that blend form and function seamlessly. Passionate about continuous learning, I am dedicated to staying ahead in an ever-evolving tech landscape.<br/> When not working on projects, I enjoy exploring innovative tools and techniques, collaborating with like-minded professionals, and contributing to the digital community.",
       "skill": [
@@ -125,10 +125,10 @@
       "name": "Rufai Usman",
       "profession": "Front End Dev",
       "image": [
-        "/Fitech-Data/images/rufai.jpeg",
-        "/Fitech-Data/images/rufai1.jpeg",
-        "/Fitech-Data/images/rufai2.jpeg",
-        "/Fitech-Data/images/rufai3.jpeg"
+        "/rufai.jpeg",
+        "/rufai1.jpeg",
+        "/rufai2.jpeg",
+        "/rufai3.jpeg"
       ],
       "bio": "My name is Rufai Usman Artogrol, a passionate and dedicated frontend developer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React. I have a keen eye for design, ensuring that every project I work on is responsive, visually appealing, and user-friendly. My journey in tech is driven by a commitment to continuous learning and creativity. I excel in using Tailwind CSS to craft beautiful and functional interfaces, and I enjoy integrating animations and interactive elements to enhance user experiences.",
       "skill": [
@@ -146,7 +146,7 @@
       "name": "Jethro Irmiya",
       "profession": "Front End Dev",
       "image": [
-        "/images/Jethro.jpeg"
+        "/Jethro.jpeg"
       ],
       "bio": "As a passionate web developer with fundamental knowledge and experience, I craft innovative digital solutions that drive results. With expertise in [javaScript (Client-side), HTML/CSS. undergoing intensive learning in TypeScript, React, and etherJS.], I deliver responsive, user-friendly, and visually stunning websites. My focus is on writing clean, efficient code and providing exceptional user experiences.<br/>I'm IRMIYA JETHRO MBATA, a web developer fueled by curiosity and creativity. My journey began in July, 2024, and since then, I've honed skills in HTML, CSS (both vannila and tailwind), javaScript etc. I believe in making the web accessible, intuitive, and beautiful. With each project, I strive to tell a story through code, combining functionality with aesthetics.<br/> My passion for web development knows no bounds, and I am constantly seeking new challenges to push the boundaries of what's possible in the online realm. From responsive, accessible designs to lightning-fast performance and cutting-edge interactivity, I have the ability to transform even the most ambitious ideas into reality.",
       "skill": [
