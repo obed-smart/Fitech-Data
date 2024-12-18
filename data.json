@@ -176,6 +176,24 @@
         " REACT JS",
         "GIT"
       ]
+    },
+    {
+      "id": 8,
+      "name": "Habib",
+      "profession": "Front End Dev",
+      "image": [
+        "/habbib.jpeg"
+      ],
+      "bio": "Habib. Front End Web Developer, aspiring Full-stack Developer. Started my developer journey in 2023 by learning html/css, over time I've gained experience with Javascript, react.js, and express.js/node.js.",
+      "skill": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "TAILWINDCSS",
+        "SCSS",
+        " REACT JS",
+        "GIT"
+      ]
     }
   ],
   "menu": [
