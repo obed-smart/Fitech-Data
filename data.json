@@ -158,6 +158,24 @@
         " REACT JS",
         "GIT"
       ]
+    },
+    {
+      "id": 8,
+      "name": "Fatima",
+      "profession": "Front End Dev",
+      "image": [
+        "/Fatema.jpeg"
+      ],
+      "bio": "Hi, I'm Fatima, a Computer Science student. I'm driven by a passion for solving complex problems and uncovering insights. With a focus on data analytics, I enjoy working with data to identify trends and inform decisions. Currently, I'm expanding my skillset by learning web development, and I'm excited to explore the possibilities at the intersection of data, technology, and innovation.",
+      "skill": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "TAILWINDCSS",
+        "SCSS",
+        " REACT JS",
+        "GIT"
+      ]
     }
   ],
   "menu": [
